@@ -1,6 +1,6 @@
 # hamgman
 
-A new Flutter project.
+hangman is the first project that i made in flutter .ravanrex
 
 ## Getting Started
 
